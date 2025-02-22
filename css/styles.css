@@ -156,11 +156,6 @@ main {
     color: #404bbf;
 }
 
-.icons-list {
-    display: block;
-}
-
-
 /* #endregion*/
 
 /* #region section hero */
@@ -214,6 +209,19 @@ main {
     padding: 120px 0;
 }
  
+.section-div-icon{
+    display: block;
+    text-align: center;
+    background: #f4f4fd;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    width: 264px;
+    height: 112px;
+}
+.section-servises-icon{
+
+}
+
 .section-title {
     position: absolute;
     width: 1px;
